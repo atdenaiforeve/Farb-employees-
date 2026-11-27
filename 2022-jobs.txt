@@ -1,0 +1,257 @@
+FARB 2022 EMPLOYEE JOB REGISTER
+Classification: Established Workforce Assignments
+Total Assigned Employees: 250
+Total Workforce: 500
+Unassigned New Recruits: 250
+Record Format: Employee ID | Full Name | Department | Job Title
+
+FARB-2022-001 | Alexander Bennett | Executive Administration | Founding Director
+FARB-2022-002 | Olivia Mitchell | Executive Administration | Deputy Director
+FARB-2022-003 | Daniel Kowalski | Anomaly Research | Principal Anomaly Researcher
+FARB-2022-004 | Amelia Thompson | Biological Research | Research Biologist
+FARB-2022-005 | Ethan Nakamura | Chemical Research | Chemical Research Scientist
+FARB-2022-006 | Sofia Martinez | Medical Services | Medical Officer
+FARB-2022-007 | Benjamin Carter | Security | Security Director
+FARB-2022-008 | Isabelle Laurent | Archives and Records | Chief Records Archivist
+FARB-2022-009 | Noah Williams | Field Operations | Field Operations Coordinator
+FARB-2022-010 | Aisha Rahman | Psychology and Behaviour | Behavioural Researcher
+FARB-2022-011 | Lucas Anderson | Engineering | Senior Systems Engineer
+FARB-2022-012 | Chloe Richardson | Administration | Personnel Administrator
+FARB-2022-013 | Gabriel Ferreira | Intelligence and Analysis | Intelligence Analyst
+FARB-2022-014 | Hannah Brooks | Logistics and Supply | Supply Coordinator
+FARB-2022-015 | Samuel O'Connor | Containment Management | Containment Supervisor
+FARB-2022-016 | Mei Lin Chen | Technology and Computing | Systems Programmer
+FARB-2022-017 | William Foster | Environmental Studies | Environmental Scientist
+FARB-2022-018 | Elena Petrova | Physical Research | Applied Physics Researcher
+FARB-2022-019 | James Harrison | Legal Affairs | Legal Adviser
+FARB-2022-020 | Priya Sharma | Communications | Communications Officer
+FARB-2022-021 | Thomas Wright | Anomaly Research | Anomaly Documentation Specialist
+FARB-2022-022 | Layla Haddad | Biological Research | Laboratory Technician
+FARB-2022-023 | Oliver Davies | Chemical Research | Chemical Laboratory Technician
+FARB-2022-024 | Freya Johansson | Medical Services | Clinical Research Nurse
+FARB-2022-025 | Michael Russo | Security | Security Shift Supervisor
+FARB-2022-026 | Zara Mahmoud | Archives and Records | Records Management Officer
+FARB-2022-027 | Henry Clarke | Field Operations | Field Survey Specialist
+FARB-2022-028 | Camila Oliveira | Psychology and Behaviour | Psychological Assessment Officer
+FARB-2022-029 | Jack Murphy | Engineering | Mechanical Engineer
+FARB-2022-030 | Yuki Tanaka | Administration | Recruitment Officer
+FARB-2022-031 | Nathan Cooper | Intelligence and Analysis | Data Analysis Specialist
+FARB-2022-032 | Grace Edwards | Logistics and Supply | Procurement Officer
+FARB-2022-033 | Mateo Silva | Containment Management | Containment Systems Technician
+FARB-2022-034 | Leila Hassan | Technology and Computing | Network Administrator
+FARB-2022-035 | Christopher Evans | Environmental Studies | Environmental Monitoring Technician
+FARB-2022-036 | Anika Fischer | Physical Research | Materials Researcher
+FARB-2022-037 | Ryan McKenzie | Legal Affairs | Compliance Officer
+FARB-2022-038 | Maya Patel | Communications | Internal Communications Specialist
+FARB-2022-039 | David Kim | Anomaly Research | Research Data Analyst
+FARB-2022-040 | Sophie Laurent | Biological Research | Specimen Records Technician
+FARB-2022-041 | Adrian Novak | Field Operations | Field Equipment Specialist
+FARB-2022-042 | Emily Watson | Medical Services | Medical Laboratory Technician
+FARB-2022-043 | Omar Khalil | Security | Access Control Officer
+FARB-2022-044 | Charlotte Green | Archives and Records | Document Preservation Specialist
+FARB-2022-045 | Felix Schneider | Engineering | Electrical Engineer
+FARB-2022-046 | Isabella Costa | Technology and Computing | Database Administrator
+FARB-2022-047 | Aaron Thompson | Administration | Finance Officer
+FARB-2022-048 | Nadia Ibrahim | Psychology and Behaviour | Behavioural Records Analyst
+FARB-2022-049 | Sebastian Meyer | Containment Management | Containment Inspection Officer
+FARB-2022-050 | Lucy Campbell | Logistics and Supply | Inventory Control Officer
+FARB-2022-051 | Marcus Sullivan | Anomaly Research | Anomaly Field Researcher
+FARB-2022-052 | Evelyn Park | Anomaly Research | Anomaly Behaviour Analyst
+FARB-2022-053 | Andre Williams | Anomaly Research | Anomalous Materials Specialist
+FARB-2022-054 | Fatima El-Amin | Anomaly Research | Anomaly Documentation Officer
+FARB-2022-055 | Connor Blake | Anomaly Research | Anomaly Testing Coordinator
+FARB-2022-056 | Valentina Rossi | Anomaly Research | Anomaly Research Assistant
+FARB-2022-057 | Isaac Goldstein | Anomaly Research | Anomaly Observation Specialist
+FARB-2022-058 | Amara Okafor | Anomaly Research | Anomaly Data Curator
+FARB-2022-059 | Dylan Price | Anomaly Research | Anomaly Theory Researcher
+FARB-2022-060 | Gabriella Moretti | Anomaly Research | Anomaly Survey Officer
+FARB-2022-061 | Kai Nakamoto | Biological Research | Senior Research Biologist
+FARB-2022-062 | Rebecca Morgan | Biological Research | Microbiology Technician
+FARB-2022-063 | Hassan Qureshi | Biological Research | Genetics Research Assistant
+FARB-2022-064 | Victoria Hayes | Biological Research | Specimen Analysis Officer
+FARB-2022-065 | Leo Andersen | Biological Research | Ecological Researcher
+FARB-2022-066 | Nadia Volkov | Biological Research | Cellular Studies Technician
+FARB-2022-067 | Matthew Sinclair | Biological Research | Comparative Biology Analyst
+FARB-2022-068 | Esther Mensah | Biological Research | Biosample Coordinator
+FARB-2022-069 | Julian Reyes | Biological Research | Research Vivarium Officer
+FARB-2022-070 | Alice Bennett | Biological Research | Biological Data Specialist
+FARB-2022-071 | Tariq Mansour | Chemical Research | Chemical Analysis Specialist
+FARB-2022-072 | Georgia Collins | Chemical Research | Laboratory Process Officer
+FARB-2022-073 | Vincent Dubois | Chemical Research | Compound Researcher
+FARB-2022-074 | Nia Williams | Chemical Research | Chemical Instrument Technician
+FARB-2022-075 | Patrick O'Shea | Chemical Research | Reagent Quality Analyst
+FARB-2022-076 | Hana Suzuki | Chemical Research | Reaction Studies Assistant
+FARB-2022-077 | Dominic Russo | Chemical Research | Materials Chemistry Researcher
+FARB-2022-078 | Sara Lindström | Chemical Research | Laboratory Safety Coordinator
+FARB-2022-079 | Elijah Brooks | Chemical Research | Chemical Data Officer
+FARB-2022-080 | Miriam Cohen | Chemical Research | Analytical Chemistry Technician
+FARB-2022-081 | Oscar van Dijk | Physical Research | Applied Physics Specialist
+FARB-2022-082 | Zainab Farouk | Physical Research | Experimental Measurement Officer
+FARB-2022-083 | Edward Hughes | Physical Research | Energy Research Technician
+FARB-2022-084 | Lucia Romano | Physical Research | Materials Physics Analyst
+FARB-2022-085 | Arjun Desai | Physical Research | Optical Systems Researcher
+FARB-2022-086 | Bethany Scott | Physical Research | Acoustics Research Assistant
+FARB-2022-087 | Samuel Okoye | Physical Research | Field Physics Technician
+FARB-2022-088 | Ingrid Bergström | Physical Research | Calibration Specialist
+FARB-2022-089 | Caleb Foster | Physical Research | Thermal Systems Analyst
+FARB-2022-090 | Yara Nasser | Physical Research | Physical Research Coordinator
+FARB-2022-091 | Theodore James | Medical Services | Clinical Services Officer
+FARB-2022-092 | Min-seo Kang | Medical Services | Occupational Health Specialist
+FARB-2022-093 | Rafael Mendes | Medical Services | Medical Assessment Coordinator
+FARB-2022-094 | Claire Donovan | Medical Services | Emergency Care Technician
+FARB-2022-095 | Ibrahim Saleh | Medical Services | Clinical Laboratory Analyst
+FARB-2022-096 | Eleanor Price | Medical Services | Medical Imaging Technician
+FARB-2022-097 | Anton Fischer | Medical Services | Medical Research Assistant
+FARB-2022-098 | Jasmine Clarke | Medical Services | Staff Health Coordinator
+FARB-2022-099 | Miguel Torres | Medical Services | Medical Equipment Specialist
+FARB-2022-100 | Rebecca Sinclair | Medical Services | Patient Records Officer
+FARB-2022-101 | Jonathan Pierce | Security | Security Operations Officer
+FARB-2022-102 | Isabelle Moreau | Security | Protective Services Supervisor
+FARB-2022-103 | Marcus Chen | Security | Access Systems Specialist
+FARB-2022-104 | Danielle Fraser | Security | Security Assessment Analyst
+FARB-2022-105 | Elias Haddad | Security | Patrol Coordination Officer
+FARB-2022-106 | Sophie Nakamura | Security | Security Training Specialist
+FARB-2022-107 | Nathaniel Brooks | Security | Incident Response Officer
+FARB-2022-108 | Amira Khalil | Security | Perimeter Monitoring Technician
+FARB-2022-109 | Peter Walsh | Security | Personnel Protection Officer
+FARB-2022-110 | Valeria Costa | Security | Security Records Analyst
+FARB-2022-111 | Adrian Petrov | Archives and Records | Senior Archivist
+FARB-2022-112 | Naomi Campbell | Archives and Records | Digital Records Curator
+FARB-2022-113 | Yusuf Demir | Archives and Records | Document Classification Officer
+FARB-2022-114 | Rebecca Ellis | Archives and Records | Historical Records Researcher
+FARB-2022-115 | Matteo Bianchi | Archives and Records | Archive Preservation Technician
+FARB-2022-116 | Claire Okafor | Archives and Records | Evidence Records Coordinator
+FARB-2022-117 | Dominic Hayes | Archives and Records | File Integrity Analyst
+FARB-2022-118 | Linh Nguyen | Archives and Records | Records Access Officer
+FARB-2022-119 | Gabriel Santos | Archives and Records | Archive Indexing Specialist
+FARB-2022-120 | Harriet Cole | Archives and Records | Records Audit Officer
+FARB-2022-121 | Stefan Müller | Field Operations | Field Expedition Leader
+FARB-2022-122 | Farah Mahmoud | Field Operations | Survey Operations Officer
+FARB-2022-123 | Elliot Turner | Field Operations | Field Sampling Specialist
+FARB-2022-124 | Anya Sokolov | Field Operations | Remote Site Coordinator
+FARB-2022-125 | Kieran Doyle | Field Operations | Expedition Logistics Officer
+FARB-2022-126 | Mariam Abdi | Field Operations | Field Observation Technician
+FARB-2022-127 | Daniel Park | Field Operations | Terrain Assessment Analyst
+FARB-2022-128 | Elena Vasquez | Field Operations | Field Support Coordinator
+FARB-2022-129 | Christopher Lane | Field Operations | Survey Equipment Officer
+FARB-2022-130 | Sienna Walsh | Field Operations | Field Research Assistant
+FARB-2022-131 | Ibrahim Farouk | Psychology and Behaviour | Behavioural Assessment Specialist
+FARB-2022-132 | Olivia Mensah | Psychology and Behaviour | Cognitive Researcher
+FARB-2022-133 | Vincent Morel | Psychology and Behaviour | Interview Services Officer
+FARB-2022-134 | Talia Rosen | Psychology and Behaviour | Human Factors Analyst
+FARB-2022-135 | George Whitaker | Psychology and Behaviour | Psychological Records Coordinator
+FARB-2022-136 | Rina Matsuda | Psychology and Behaviour | Behavioural Observation Technician
+FARB-2022-137 | Abdul Karim | Psychology and Behaviour | Decision Studies Researcher
+FARB-2022-138 | Madeline Shaw | Psychology and Behaviour | Research Ethics Liaison
+FARB-2022-139 | Tomasz Zielinski | Psychology and Behaviour | Interview Analysis Officer
+FARB-2022-140 | Amina Yusuf | Psychology and Behaviour | Wellbeing Assessment Specialist
+FARB-2022-141 | Blake Harrison | Engineering | Structural Systems Engineer
+FARB-2022-142 | Celeste Pereira | Engineering | Mechanical Design Specialist
+FARB-2022-143 | Haruto Sato | Engineering | Electrical Systems Technician
+FARB-2022-144 | Nadia Petrova | Engineering | Facilities Engineering Officer
+FARB-2022-145 | Malcolm Reed | Engineering | Instrumentation Engineer
+FARB-2022-146 | Yasmin Ali | Engineering | Power Systems Analyst
+FARB-2022-147 | Louis Bernard | Engineering | Maintenance Planning Officer
+FARB-2022-148 | Keira Donovan | Engineering | Mechanical Workshop Supervisor
+FARB-2022-149 | Darius Coleman | Engineering | Building Services Technician
+FARB-2022-150 | Eva Lindqvist | Engineering | Engineering Quality Inspector
+FARB-2022-151 | Ahmed Saleh | Technology and Computing | Software Systems Engineer
+FARB-2022-152 | Natalie Ford | Technology and Computing | Network Security Analyst
+FARB-2022-153 | Marco Conti | Technology and Computing | Database Operations Specialist
+FARB-2022-154 | Jia Wei | Technology and Computing | Systems Integration Officer
+FARB-2022-155 | Callum Stewart | Technology and Computing | Digital Infrastructure Technician
+FARB-2022-156 | Zoya Mirza | Technology and Computing | Application Support Analyst
+FARB-2022-157 | Philip Grant | Technology and Computing | Computing Research Assistant
+FARB-2022-158 | Ana Carvalho | Technology and Computing | Data Systems Administrator
+FARB-2022-159 | Rohan Mehta | Technology and Computing | Cybersecurity Coordinator
+FARB-2022-160 | Elise Fontaine | Technology and Computing | Technical Support Engineer
+FARB-2022-161 | Marcus Bell | Intelligence and Analysis | Intelligence Research Officer
+FARB-2022-162 | Dalia Nasser | Intelligence and Analysis | Incident Pattern Analyst
+FARB-2022-163 | Anton Weber | Intelligence and Analysis | Information Verification Specialist
+FARB-2022-164 | Brooke Mitchell | Intelligence and Analysis | Strategic Assessment Officer
+FARB-2022-165 | Hamza Siddiqui | Intelligence and Analysis | Threat Intelligence Researcher
+FARB-2022-166 | Clara Jensen | Intelligence and Analysis | Open Information Analyst
+FARB-2022-167 | Wesley Price | Intelligence and Analysis | Intelligence Records Coordinator
+FARB-2022-168 | Mariya Ivanova | Intelligence and Analysis | Operational Analysis Officer
+FARB-2022-169 | Diego Alvarez | Intelligence and Analysis | Research Intelligence Assistant
+FARB-2022-170 | Rebecca Tan | Intelligence and Analysis | Information Fusion Specialist
+FARB-2022-171 | Stephen Marshall | Logistics and Supply | Supply Chain Analyst
+FARB-2022-172 | Noor Hassan | Logistics and Supply | Inventory Planning Officer
+FARB-2022-173 | Emil Johansson | Logistics and Supply | Procurement Specialist
+FARB-2022-174 | Cassandra Wright | Logistics and Supply | Warehouse Systems Coordinator
+FARB-2022-175 | Nikhil Rao | Logistics and Supply | Transport Logistics Officer
+FARB-2022-176 | Teresa Almeida | Logistics and Supply | Equipment Distribution Supervisor
+FARB-2022-177 | Benjamin Cole | Logistics and Supply | Materials Tracking Analyst
+FARB-2022-178 | Laila Osman | Logistics and Supply | Supply Records Technician
+FARB-2022-179 | Andrew McBride | Logistics and Supply | Resource Allocation Officer
+FARB-2022-180 | Yuna Kimura | Logistics and Supply | Receiving Operations Coordinator
+FARB-2022-181 | Karim Haddad | Containment Management | Containment Operations Officer
+FARB-2022-182 | Paige Sullivan | Containment Management | Containment Systems Analyst
+FARB-2022-183 | Mikhail Orlov | Containment Management | Facility Monitoring Specialist
+FARB-2022-184 | Daniela Cruz | Containment Management | Containment Planning Coordinator
+FARB-2022-185 | Owen Fletcher | Containment Management | Inspection and Compliance Officer
+FARB-2022-186 | Samira Rahimi | Containment Management | Containment Maintenance Technician
+FARB-2022-187 | Louis Tremblay | Containment Management | Environmental Control Analyst
+FARB-2022-188 | Kiara Williams | Containment Management | Containment Records Specialist
+FARB-2022-189 | Farid Azizi | Containment Management | Site Readiness Officer
+FARB-2022-190 | Molly Spencer | Containment Management | Containment Support Engineer
+FARB-2022-191 | Kenji Watanabe | Administration | Administrative Services Officer
+FARB-2022-192 | Amelie Girard | Administration | Finance Administration Analyst
+FARB-2022-193 | Josephine Clark | Administration | Scheduling Coordinator
+FARB-2022-194 | Bilal Ahmed | Administration | Contract Services Officer
+FARB-2022-195 | Rowan Gallagher | Administration | Office Operations Supervisor
+FARB-2022-196 | Thuy Tran | Administration | Budget Planning Assistant
+FARB-2022-197 | Peter Novak | Administration | Administrative Records Specialist
+FARB-2022-198 | Alina Popescu | Administration | Policy Support Officer
+FARB-2022-199 | Marcus Osei | Administration | Executive Services Coordinator
+FARB-2022-200 | Fiona McAllister | Administration | Business Process Analyst
+FARB-2022-201 | Soren Dahl | Communications | Internal Communications Officer
+FARB-2022-202 | Nadia Karim | Communications | Technical Communications Specialist
+FARB-2022-203 | Louis Bennett | Communications | Information Bulletin Editor
+FARB-2022-204 | Aaliyah Jackson | Communications | Communications Systems Technician
+FARB-2022-205 | Rafael Costa | Communications | Public Liaison Coordinator
+FARB-2022-206 | Miriam Stein | Communications | Operational Briefing Officer
+FARB-2022-207 | Declan Murphy | Communications | Media Records Analyst
+FARB-2022-208 | Hye-jin Park | Communications | Staff Information Coordinator
+FARB-2022-209 | Victor Ionescu | Communications | Publication Quality Officer
+FARB-2022-210 | Eliza Morgan | Communications | Communications Research Assistant
+FARB-2022-211 | Farhan Malik | Legal Affairs | Regulatory Compliance Specialist
+FARB-2022-212 | Gabrielle Roy | Legal Affairs | Research Governance Officer
+FARB-2022-213 | Nathaniel Scott | Legal Affairs | Contract Review Analyst
+FARB-2022-214 | Salma Youssef | Legal Affairs | Legal Records Coordinator
+FARB-2022-215 | Hugo Martins | Legal Affairs | Policy Compliance Adviser
+FARB-2022-216 | Erin McCarthy | Legal Affairs | Privacy Review Officer
+FARB-2022-217 | Jun Seo | Legal Affairs | Internal Investigations Liaison
+FARB-2022-218 | Aleksandra Kowalczyk | Legal Affairs | Ethics Documentation Specialist
+FARB-2022-219 | Damian Clarke | Legal Affairs | Legal Research Assistant
+FARB-2022-220 | Mariam Diallo | Legal Affairs | Standards and Governance Officer
+FARB-2022-221 | Simon Fletcher | Environmental Studies | Environmental Assessment Officer
+FARB-2022-222 | Leona Fischer | Environmental Studies | Ecological Monitoring Specialist
+FARB-2022-223 | Biljana Markovic | Environmental Studies | Site Conditions Analyst
+FARB-2022-224 | Peter Andersson | Environmental Studies | Contamination Survey Technician
+FARB-2022-225 | Nadia Suleiman | Environmental Studies | Environmental Data Coordinator
+FARB-2022-226 | Cameron Doyle | Environmental Studies | Habitat Research Assistant
+FARB-2022-227 | Imani Johnson | Environmental Studies | Water Systems Analyst
+FARB-2022-228 | Matteo Ricci | Environmental Studies | Atmospheric Monitoring Officer
+FARB-2022-229 | Esther van der Berg | Environmental Studies | Environmental Compliance Specialist
+FARB-2022-230 | Yusuf Rahman | Environmental Studies | Field Ecology Technician
+FARB-2022-231 | Helena Costa | Personnel and Recruitment | Recruitment Assessment Officer
+FARB-2022-232 | Rory Campbell | Personnel and Recruitment | Workforce Planning Analyst
+FARB-2022-233 | Saira Mahmood | Personnel and Recruitment | Staff Induction Coordinator
+FARB-2022-234 | Anton Petrescu | Personnel and Recruitment | Personnel Records Specialist
+FARB-2022-235 | Danielle Okoye | Personnel and Recruitment | Training Administration Officer
+FARB-2022-236 | Gabriel Laurent | Personnel and Recruitment | Employee Relations Adviser
+FARB-2022-237 | Mina Kuroda | Personnel and Recruitment | Staffing Operations Analyst
+FARB-2022-238 | Christopher Doyle | Personnel and Recruitment | Professional Development Coordinator
+FARB-2022-239 | Safiya Noor | Personnel and Recruitment | Workforce Data Officer
+FARB-2022-240 | Thomas Becker | Personnel and Recruitment | Personnel Compliance Specialist
+FARB-2022-241 | Isabel Rojas | Executive Administration | Executive Planning Officer
+FARB-2022-242 | Arman Vaziri | Executive Administration | Directorate Research Adviser
+FARB-2022-243 | Grace Holloway | Executive Administration | Senior Policy Coordinator
+FARB-2022-244 | Nils Eriksson | Executive Administration | Department Liaison Officer
+FARB-2022-245 | Fatima Zahra | Executive Administration | Strategic Operations Analyst
+FARB-2022-246 | Patrick Byrne | Executive Administration | Executive Records Manager
+FARB-2022-247 | Mei Wong | Executive Administration | Governance Secretariat Officer
+FARB-2022-248 | Stefan Ionescu | Executive Administration | Organisational Planning Specialist
+FARB-2022-249 | Asha Kapoor | Executive Administration | Directorate Support Coordinator
+FARB-2022-250 | Daniel Mercer | Executive Administration | Executive Review Analyst
