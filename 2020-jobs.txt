@@ -1,0 +1,105 @@
+FARB 2020 EMPLOYEE JOB REGISTER
+Classification: Expanded Workforce
+Total Employees: 100
+Record Format: Employee ID | Full Name | Department | Job Title
+
+FARB-2020-001 | Alexander Bennett | Executive Administration | Founding Director
+FARB-2020-002 | Olivia Mitchell | Executive Administration | Deputy Director
+FARB-2020-003 | Daniel Kowalski | Anomaly Research | Principal Anomaly Researcher
+FARB-2020-004 | Amelia Thompson | Biological Research | Research Biologist
+FARB-2020-005 | Ethan Nakamura | Chemical Research | Chemical Research Scientist
+FARB-2020-006 | Sofia Martinez | Medical Services | Medical Officer
+FARB-2020-007 | Benjamin Carter | Security | Security Director
+FARB-2020-008 | Isabelle Laurent | Archives and Records | Chief Records Archivist
+FARB-2020-009 | Noah Williams | Field Operations | Field Operations Coordinator
+FARB-2020-010 | Aisha Rahman | Psychology and Behaviour | Behavioural Researcher
+FARB-2020-011 | Lucas Anderson | Engineering | Senior Systems Engineer
+FARB-2020-012 | Chloe Richardson | Administration | Personnel Administrator
+FARB-2020-013 | Gabriel Ferreira | Intelligence and Analysis | Intelligence Analyst
+FARB-2020-014 | Hannah Brooks | Logistics and Supply | Supply Coordinator
+FARB-2020-015 | Samuel O'Connor | Containment Management | Containment Supervisor
+FARB-2020-016 | Mei Lin Chen | Technology and Computing | Systems Programmer
+FARB-2020-017 | William Foster | Environmental Studies | Environmental Scientist
+FARB-2020-018 | Elena Petrova | Physical Research | Applied Physics Researcher
+FARB-2020-019 | James Harrison | Legal Affairs | Legal Adviser
+FARB-2020-020 | Priya Sharma | Communications | Communications Officer
+FARB-2020-021 | Thomas Wright | Anomaly Research | Anomaly Documentation Specialist
+FARB-2020-022 | Layla Haddad | Biological Research | Laboratory Technician
+FARB-2020-023 | Oliver Davies | Chemical Research | Chemical Laboratory Technician
+FARB-2020-024 | Freya Johansson | Medical Services | Clinical Research Nurse
+FARB-2020-025 | Michael Russo | Security | Security Shift Supervisor
+FARB-2020-026 | Zara Mahmoud | Archives and Records | Records Management Officer
+FARB-2020-027 | Henry Clarke | Field Operations | Field Survey Specialist
+FARB-2020-028 | Camila Oliveira | Psychology and Behaviour | Psychological Assessment Officer
+FARB-2020-029 | Jack Murphy | Engineering | Mechanical Engineer
+FARB-2020-030 | Yuki Tanaka | Administration | Recruitment Officer
+FARB-2020-031 | Nathan Cooper | Intelligence and Analysis | Data Analysis Specialist
+FARB-2020-032 | Grace Edwards | Logistics and Supply | Procurement Officer
+FARB-2020-033 | Mateo Silva | Containment Management | Containment Systems Technician
+FARB-2020-034 | Leila Hassan | Technology and Computing | Network Administrator
+FARB-2020-035 | Christopher Evans | Environmental Studies | Environmental Monitoring Technician
+FARB-2020-036 | Anika Fischer | Physical Research | Materials Researcher
+FARB-2020-037 | Ryan McKenzie | Legal Affairs | Compliance Officer
+FARB-2020-038 | Maya Patel | Communications | Internal Communications Specialist
+FARB-2020-039 | David Kim | Anomaly Research | Research Data Analyst
+FARB-2020-040 | Sophie Laurent | Biological Research | Specimen Records Technician
+FARB-2020-041 | Adrian Novak | Field Operations | Field Equipment Specialist
+FARB-2020-042 | Emily Watson | Medical Services | Medical Laboratory Technician
+FARB-2020-043 | Omar Khalil | Security | Access Control Officer
+FARB-2020-044 | Charlotte Green | Archives and Records | Document Preservation Specialist
+FARB-2020-045 | Felix Schneider | Engineering | Electrical Engineer
+FARB-2020-046 | Isabella Costa | Technology and Computing | Database Administrator
+FARB-2020-047 | Aaron Thompson | Administration | Finance Officer
+FARB-2020-048 | Nadia Ibrahim | Psychology and Behaviour | Behavioural Records Analyst
+FARB-2020-049 | Sebastian Meyer | Containment Management | Containment Inspection Officer
+FARB-2020-050 | Lucy Campbell | Logistics and Supply | Inventory Control Officer
+FARB-2020-051 | Marcus Sullivan | Anomaly Research | Anomaly Classification Analyst
+FARB-2020-052 | Evelyn Park | Anomaly Research | Anomaly Pattern Researcher
+FARB-2020-053 | Andre Williams | Biological Research | Microbiology Researcher
+FARB-2020-054 | Fatima El-Amin | Biological Research | Ecological Specimen Analyst
+FARB-2020-055 | Connor Blake | Chemical Research | Chemical Safety Analyst
+FARB-2020-056 | Valentina Rossi | Chemical Research | Compound Analysis Technician
+FARB-2020-057 | Isaac Goldstein | Physical Research | Experimental Physics Technician
+FARB-2020-058 | Amara Okafor | Physical Research | Energy Systems Researcher
+FARB-2020-059 | Dylan Price | Medical Services | Occupational Health Officer
+FARB-2020-060 | Gabriella Moretti | Medical Services | Clinical Records Coordinator
+FARB-2020-061 | Kai Nakamoto | Security | Security Training Officer
+FARB-2020-062 | Rebecca Morgan | Security | Personnel Screening Officer
+FARB-2020-063 | Hassan Qureshi | Field Operations | Field Logistics Planner
+FARB-2020-064 | Victoria Hayes | Field Operations | Survey Data Recorder
+FARB-2020-065 | Leo Andersen | Containment Management | Containment Planning Analyst
+FARB-2020-066 | Nadia Volkov | Containment Management | Containment Monitoring Officer
+FARB-2020-067 | Matthew Sinclair | Engineering | Facilities Maintenance Engineer
+FARB-2020-068 | Esther Mensah | Engineering | Instrumentation Technician
+FARB-2020-069 | Julian Reyes | Technology and Computing | Software Support Analyst
+FARB-2020-070 | Alice Bennett | Technology and Computing | Computer Systems Technician
+FARB-2020-071 | Tariq Mansour | Intelligence and Analysis | Threat Assessment Analyst
+FARB-2020-072 | Georgia Collins | Intelligence and Analysis | Open-Source Information Researcher
+FARB-2020-073 | Vincent Dubois | Archives and Records | Digital Archive Technician
+FARB-2020-074 | Nia Williams | Archives and Records | Records Indexing Specialist
+FARB-2020-075 | Patrick O'Shea | Logistics and Supply | Transport Scheduling Officer
+FARB-2020-076 | Hana Suzuki | Logistics and Supply | Warehouse Operations Coordinator
+FARB-2020-077 | Dominic Russo | Administration | Payroll Administrator
+FARB-2020-078 | Sara Lindström | Administration | Contract Administration Officer
+FARB-2020-079 | Elijah Brooks | Psychology and Behaviour | Cognitive Research Assistant
+FARB-2020-080 | Miriam Cohen | Psychology and Behaviour | Interview Assessment Specialist
+FARB-2020-081 | Oscar van Dijk | Environmental Studies | Environmental Survey Officer
+FARB-2020-082 | Zainab Farouk | Environmental Studies | Contamination Monitoring Analyst
+FARB-2020-083 | Edward Hughes | Communications | Public Information Coordinator
+FARB-2020-084 | Lucia Romano | Communications | Technical Publications Editor
+FARB-2020-085 | Arjun Desai | Legal Affairs | Research Ethics Officer
+FARB-2020-086 | Bethany Scott | Legal Affairs | Records and Privacy Compliance Officer
+FARB-2020-087 | Samuel Okoye | Executive Administration | Executive Office Coordinator
+FARB-2020-088 | Ingrid Bergström | Executive Administration | Strategic Planning Officer
+FARB-2020-089 | Caleb Foster | Anomaly Research | Research Equipment Calibration Technician
+FARB-2020-090 | Yara Nasser | Biological Research | Cellular Research Assistant
+FARB-2020-091 | Theodore James | Chemical Research | Laboratory Quality Assurance Officer
+FARB-2020-092 | Min-seo Kang | Physical Research | Measurement Systems Analyst
+FARB-2020-093 | Rafael Mendes | Field Operations | Field Communications Technician
+FARB-2020-094 | Claire Donovan | Containment Management | Containment Documentation Officer
+FARB-2020-095 | Ibrahim Saleh | Engineering | Building Systems Technician
+FARB-2020-096 | Eleanor Price | Medical Services | Medical Supplies Coordinator
+FARB-2020-097 | Anton Fischer | Intelligence and Analysis | Incident Review Analyst
+FARB-2020-098 | Jasmine Clarke | Technology and Computing | Information Systems Auditor
+FARB-2020-099 | Miguel Torres | Personnel and Recruitment | Staff Development Coordinator
+FARB-2020-100 | Rebecca Sinclair | Personnel and Recruitment | Workforce Records Officer
