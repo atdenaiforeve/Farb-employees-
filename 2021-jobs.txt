@@ -1,0 +1,56 @@
+FARB 2021 EMPLOYEE JOB REGISTER
+Classification: Carried-Forward Workforce
+Total Assigned Employees: 50
+Total Workforce: 250
+Record Format: Employee ID | Full Name | Department | Job Title
+
+FARB-2021-001 | Alexander Bennett | Executive Administration | Founding Director
+FARB-2021-002 | Olivia Mitchell | Executive Administration | Deputy Director
+FARB-2021-003 | Daniel Kowalski | Anomaly Research | Principal Anomaly Researcher
+FARB-2021-004 | Amelia Thompson | Biological Research | Research Biologist
+FARB-2021-005 | Ethan Nakamura | Chemical Research | Chemical Research Scientist
+FARB-2021-006 | Sofia Martinez | Medical Services | Medical Officer
+FARB-2021-007 | Benjamin Carter | Security | Security Director
+FARB-2021-008 | Isabelle Laurent | Archives and Records | Chief Records Archivist
+FARB-2021-009 | Noah Williams | Field Operations | Field Operations Coordinator
+FARB-2021-010 | Aisha Rahman | Psychology and Behaviour | Behavioural Researcher
+FARB-2021-011 | Lucas Anderson | Engineering | Senior Systems Engineer
+FARB-2021-012 | Chloe Richardson | Administration | Personnel Administrator
+FARB-2021-013 | Gabriel Ferreira | Intelligence and Analysis | Intelligence Analyst
+FARB-2021-014 | Hannah Brooks | Logistics and Supply | Supply Coordinator
+FARB-2021-015 | Samuel O'Connor | Containment Management | Containment Supervisor
+FARB-2021-016 | Mei Lin Chen | Technology and Computing | Systems Programmer
+FARB-2021-017 | William Foster | Environmental Studies | Environmental Scientist
+FARB-2021-018 | Elena Petrova | Physical Research | Applied Physics Researcher
+FARB-2021-019 | James Harrison | Legal Affairs | Legal Adviser
+FARB-2021-020 | Priya Sharma | Communications | Communications Officer
+FARB-2021-021 | Thomas Wright | Anomaly Research | Anomaly Documentation Specialist
+FARB-2021-022 | Layla Haddad | Biological Research | Laboratory Technician
+FARB-2021-023 | Oliver Davies | Chemical Research | Chemical Laboratory Technician
+FARB-2021-024 | Freya Johansson | Medical Services | Clinical Research Nurse
+FARB-2021-025 | Michael Russo | Security | Security Shift Supervisor
+FARB-2021-026 | Zara Mahmoud | Archives and Records | Records Management Officer
+FARB-2021-027 | Henry Clarke | Field Operations | Field Survey Specialist
+FARB-2021-028 | Camila Oliveira | Psychology and Behaviour | Psychological Assessment Officer
+FARB-2021-029 | Jack Murphy | Engineering | Mechanical Engineer
+FARB-2021-030 | Yuki Tanaka | Administration | Recruitment Officer
+FARB-2021-031 | Nathan Cooper | Intelligence and Analysis | Data Analysis Specialist
+FARB-2021-032 | Grace Edwards | Logistics and Supply | Procurement Officer
+FARB-2021-033 | Mateo Silva | Containment Management | Containment Systems Technician
+FARB-2021-034 | Leila Hassan | Technology and Computing | Network Administrator
+FARB-2021-035 | Christopher Evans | Environmental Studies | Environmental Monitoring Technician
+FARB-2021-036 | Anika Fischer | Physical Research | Materials Researcher
+FARB-2021-037 | Ryan McKenzie | Legal Affairs | Compliance Officer
+FARB-2021-038 | Maya Patel | Communications | Internal Communications Specialist
+FARB-2021-039 | David Kim | Anomaly Research | Research Data Analyst
+FARB-2021-040 | Sophie Laurent | Biological Research | Specimen Records Technician
+FARB-2021-041 | Adrian Novak | Field Operations | Field Equipment Specialist
+FARB-2021-042 | Emily Watson | Medical Services | Medical Laboratory Technician
+FARB-2021-043 | Omar Khalil | Security | Access Control Officer
+FARB-2021-044 | Charlotte Green | Archives and Records | Document Preservation Specialist
+FARB-2021-045 | Felix Schneider | Engineering | Electrical Engineer
+FARB-2021-046 | Isabella Costa | Technology and Computing | Database Administrator
+FARB-2021-047 | Aaron Thompson | Administration | Finance Officer
+FARB-2021-048 | Nadia Ibrahim | Psychology and Behaviour | Behavioural Records Analyst
+FARB-2021-049 | Sebastian Meyer | Containment Management | Containment Inspection Officer
+FARB-2021-050 | Lucy Campbell | Logistics and Supply | Inventory Control Officer
